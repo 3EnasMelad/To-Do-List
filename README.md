@@ -2,10 +2,10 @@
 # TO_DO_LIST
 A simple to-do list application built with Laravel.
 
-![screen](assets/Screenshot from 2025-01-17 22-42-16.png)
-![screen](assets/Screenshot from 2025-01-17 22-42-07.png)
-![screen](assets/Screenshot from 2025-01-17 22-41-48.png)
-![screen](assets/Screenshot from 2025-01-17 22-41-09.png)
+![screen1](assets/Screenshot from 2025-01-17 22-42-16.png)
+![screen1](assets/Screenshot from 2025-01-17 22-42-07.png)
+![screen1](assets/Screenshot from 2025-01-17 22-41-48.png)
+![screen1](assets/Screenshot from 2025-01-17 22-41-09.png)
 
 
 
