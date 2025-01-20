@@ -2,10 +2,10 @@
 # TO_DO_LIST
 A simple to-do list application built with Laravel.
 
-![screen1](/opt/lampp/htdocs/TO_DO_LIST/assets/1.png),
-![screen1](/opt/lampp/htdocs/TO_DO_LIST/assets/2.png)
-![screen1](/opt/lampp/htdocs/TO_DO_LIST/assets/3.png)
-![screen1](/opt/lampp/htdocs/TO_DO_LIST/assets/4.png)
+![screen1](/opt/lampp/htdocs/TO_DO_LIST/assets2/1.png)
+![screen2](/opt/lampp/htdocs/TO_DO_LIST/assets2/2.png)
+![screen3](//opt/lampp/htdocs/TO_DO_LIST/assets2/3.png)
+![screen4](/opt/lampp/htdocs/TO_DO_LIST/assets2/4.png)
 
 
 
