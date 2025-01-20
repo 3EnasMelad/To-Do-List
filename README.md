@@ -3,9 +3,9 @@
 A simple to-do list application built with Laravel.
 
 ![screen1](/opt/lampp/htdocs/TO_DO_LIST/assets/1.png)
-![screen1](assets/2.png)
-![screen1](assets/3.png)
-![screen1](assets/4.png)
+![screen1](/opt/lampp/htdocs/TO_DO_LIST/assets/2.png)
+![screen1](/opt/lampp/htdocs/TO_DO_LIST/assets/3.png)
+![screen1](/opt/lampp/htdocs/TO_DO_LIST/assets/4.png)
 
 
 
